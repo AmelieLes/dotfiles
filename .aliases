@@ -1,4 +1,4 @@
-alias la ="ls -a"
-alias ll ="ls -a"
-alias c ="clear"
-alias grepc ="grep --color=always"
+alias la="ls -a"
+alias ll="ls -a"
+alias c="clear"
+alias grepc="grep --color=always"

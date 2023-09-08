@@ -1,0 +1,17 @@
+
+
+#Pour creer un dossier puis y entrer
+function mkcd(){
+	mkdir -p "$@" && cd "$@"
+}
+
+# pour creer un fichier puis y entrer avec vim
+function touchv(){
+	touch "$@" && vim "$@"
+}
+
+#rechercher sans caps sensitive
+function mygrep(){
+        grep -i "$@"
+}
+
