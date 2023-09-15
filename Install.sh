@@ -8,6 +8,6 @@
 #
 #cp .bashrc ~/.conf
 #cp .aliases ~/.conf
-#cp .functions ~ .conf
+#cp .functions ~/.conf
 #
 #

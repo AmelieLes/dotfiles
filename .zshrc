@@ -1,4 +1,4 @@
-echo "Bienvenue, $USER"
+echo "Bienvenue, Amelie"
 
 # Configuration d'utilisateur
 source ~/Documents/dotfiles/.aliases
